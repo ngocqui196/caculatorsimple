@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eb3cb6a1-b027-4315-90f7-836dbeac2b94" name="Default Changelist" comment="" />
+    <list default="true" id="eb3cb6a1-b027-4315-90f7-836dbeac2b94" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js.js" beforeDir="false" afterPath="$PROJECT_DIR$/js.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simplecaculator.html" beforeDir="false" afterPath="$PROJECT_DIR$/simplecaculator.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +19,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1bbxTSCoVoaJd55lqp4rmDfaqUP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="autoscrollToSource" value="true" />
@@ -50,6 +58,9 @@
       <workItem from="1588914603265" duration="9405000" />
       <workItem from="1589258492533" duration="12926000" />
       <workItem from="1589278356893" duration="1420000" />
+      <workItem from="1589293501739" duration="426000" />
+      <workItem from="1589332696317" duration="4464000" />
+      <workItem from="1589342625052" duration="9752000" />
     </task>
     <servers />
   </component>
