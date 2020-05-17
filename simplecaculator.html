@@ -6,12 +6,35 @@
     <script src="js.js"></script>
 </head>
 <body>
-<input type="text" id="num1" >
-<input id="num2" type="text"><br>
-<input type="button" id="addition" onclick="addition()" value="Addition(+)">
-<input type="button" id="subtraction" onclick="subtraction()" value="Subtraction(-)">
-<input type="button" id="multiplication" onclick="munTipLiCaTion()" value="Multiplication(*)">
-<input type="button" id="division" onclick="divISion()" value="Division(/)">
-<div id="result">Result Divition:</div>
+<form action="">
+<table style="border: 1px solid #fc0000">
+    <tr><input type="text" id="text">
+    </tr>
+    <tr>
+        <td><input type="button" id="num1" onclick="numOne()" value="1"></td>
+        <td><input type="button" id="num2" onclick="numTwo()" value="2"></td>
+        <td><input type="button" id="num3" onclick="numThree()" value="3"></td>
+        <td><input type="button" id="numcong" onclick="numCong()" value="+" ></td>
+    </tr>
+     <tr>
+        <td><input type="button" id="num4" onclick="numFour()" value="4" ></td>
+        <td><input type="button" id="num5" onclick="numFive()" value="5"></td>
+        <td><input type="button" id="num6" onclick="numSix()" value="6"></td>
+        <td><input type="button" id="numtru" onclick="numTru()" value="-"></td>
+    </tr>
+     <tr>
+        <td><input type="button" id="num7" onclick="numSeven()" value="7" ></td>
+        <td><input type="button" id="num8" onclick="numEight()" value="8"></td>
+        <td><input type="button" id="num9" onclick="numNine()" value="9"></td>
+        <td><input type="button" id="numnhan" onclick="numNhan()" value="*"></td>
+    </tr>
+     <tr>
+        <td><input type="button" id="numxoa" onclick="numXoa()" value="C" ></td>
+        <td><input type="button" id="num0" onclick="numZero()" value="0"></td>
+        <td><input type="button" id="numketqua" onclick="numKetQua()" value="="></td>
+        <td><input type="button" id="numchia" onclick="numChia()" value="/"></td>
+    </tr>
+</table>
+</form>
 </body>
 </html>
